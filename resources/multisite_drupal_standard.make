@@ -675,6 +675,9 @@ projects[views][patch][] = https://www.drupal.org/files/includes_handlers.inc_.g
 ; Default argument not skipped in breadcrumbs
 ; https://www.drupal.org/node/1201160
 projects[views][patch][] = https://www.drupal.org/files/issues/views-contextual_filter_exception_breadcrumbs-1201160-17.patch
+; SA-CONTRIB-2017-022
+; https://www.drupal.org/node/2854980
+projects[views][patch][] = http://cgit.drupalcode.org/views/patch/?id=308fe88aedadcbb3c37b3f25cdebef4ae92c46b1
 
 projects[views_ajax_history][subdir] = "contrib"
 projects[views_ajax_history][version] = "1.0"
