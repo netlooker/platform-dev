@@ -42,6 +42,8 @@
     <exclude-pattern>profiles/multisite_drupal_communities/themes/ec_resp/css</exclude-pattern>
     <exclude-pattern>profiles/multisite_drupal_standard/themes/ec_resp/bootstrap</exclude-pattern>
     <exclude-pattern>profiles/multisite_drupal_communities/themes/ec_resp/bootstrap</exclude-pattern>
+    <exclude-pattern>profiles/multisite_drupal_standard/themes/atomium_europa/dist/styles</exclude-pattern>
+    <exclude-pattern>profiles/multisite_drupal_communities/themes/atomium_europa/dist/styles</exclude-pattern>
 
     <!-- Views handlers/plugins not strictly follow Drupal class name conventions. -->
     <rule ref="Drupal.NamingConventions.ValidClassName">
