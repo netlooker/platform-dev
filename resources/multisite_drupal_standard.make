@@ -997,3 +997,11 @@ projects[ec_resp][download][url] = https://github.com/ec-europa/ec_resp/releases
 projects[europa][type] = theme
 projects[europa][download][type] = get
 projects[europa][download][url] = https://github.com/ec-europa/platform-theme/releases/download/0.2.0/platform-theme-0.2.0.tar.gz
+
+projects[atomium][type] = theme
+projects[atomium][version] = 1.x-dev
+
+projects[atomium_europa][type] = theme
+projects[atomium_europa][download][revision] = "06f574d50c88b0480dd32faf98e5c3a1f167b1ca"
+projects[atomium_europa][download][type] = "git"
+projects[atomium_europa][download][url] = "https://github.com/ec-europa/atomium_europa.git"
